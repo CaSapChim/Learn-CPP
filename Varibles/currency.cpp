@@ -4,17 +4,11 @@ using namespace std;
 
 int main() {
   // Create variables  
-  double pesos;
-  double reais;
-  double soles;
+  double pesos, reais, soles;
 
   double dollars;
 
-  // Pesos conversion rate: 0.055
-  // Reais conversion rate: 0.2
-  // Soles conversion rate: 0.26
-  // In 2023
-
+  // Ask user
   cout << "Enter number of Colombian Pesos: ";
   cin >> pesos;
   cout << "Enter number of brazilian Reais: ";
@@ -28,7 +22,7 @@ int main() {
   // In 2023
    dollars = 0.055 * pesos + 0.2 * reais + 0.26 * soles;
 
-  //output
+  //Output
   cout << "Your USD = $" << dollars << "\n";
 
 }
