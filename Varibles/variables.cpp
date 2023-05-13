@@ -9,3 +9,5 @@ char grade = 'A'; // Khai báo biến grade có kiểu dữ liệu ký tự
 std::string message = "Game Over";
  
 bool late_to_work = true; // Kiểu dữ liệu logic
+
+string name = "Kry"; // Khai báo kiểu string (chuỗi)
