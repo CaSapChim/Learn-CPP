@@ -2,7 +2,8 @@ int age = 28; // Khai báo biến age có kiểu dữ liệu số nguyên
 
 float f; // Khai báo biến f có kiểu dữ liệu số thực
  
-double price = 8.99; // Khai báo biến price có kiểu dữ liệu số thập phân 
+double price = 8.99; // Khai báo biến price có kiểu dữ liệu số thực
+
  
 char grade = 'A'; // Khai báo biến grade có kiểu dữ liệu ký tự 
  
